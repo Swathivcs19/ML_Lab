@@ -1,0 +1,11 @@
+Gennder,Car Owership,Travel Cost,Icome Level,Trasportatio
+Male,0,Cheap,low,Bus
+Male,1,Cheap,Medium,Bus
+Female,1,Cheap,Medium,Train
+Female,0,Cheap,low,Bus
+Male,1,Cheap,Medium,Bus
+Male,0,Standard,Medium,Train
+Female,1,Standard,Medium,Train
+Female,1,Expensive,High,Car
+Male,2,Expensive,Medium,Car
+Female,2,Expensive,High,Car
